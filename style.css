@@ -1,0 +1,16 @@
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  flex: 1;
+}
+
+.main-visual__container {
+  height: 420px;
+}
